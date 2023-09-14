@@ -25,10 +25,10 @@ let isLoggedIn= false
 //symbol => unique
 
 
-/*Non-Primitive DataType */
+/*Non-Primitive DataType(Reference Type) */
 
 
-// object
+// object,Array , Function
 
 
 
@@ -40,3 +40,6 @@ console.log(typeof "prasad")
 console.log(typeof age)
 console.log(typeof null)// output > object
 console.log(typeof undefined)//output > undefined
+
+
+
